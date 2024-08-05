@@ -1,0 +1,85 @@
+cohort	ancestry	disease	status	N 
+AMP PD 	European	PD	case	3359
+AMP PD 	European	PD	control	4153
+GP2 Genotyping Imputed	East Asian	PD	case	2645
+GP2 Genotyping Imputed	East Asian	PD	control	2453
+GP2 Genotyping Imputed	African Admixed	PD	case	281
+GP2 Genotyping Imputed	African Admixed	PD	control	800
+GP2 Genotyping Imputed	Ashkenazi Jewish	PD	case	1246
+GP2 Genotyping Imputed	Ashkenazi Jewish	PD	control	393
+GP2 Genotyping Imputed	African 	PD	case	932
+GP2 Genotyping Imputed	African 	PD	control	1678
+GP2 Genotyping Imputed	European	PD	case	13262
+GP2 Genotyping Imputed	European	PD	control	5725
+GP2 Genotyping Imputed	Central Asian	PD	case	540
+GP2 Genotyping Imputed	Central Asian	PD	control	342
+GP2 Genotyping Imputed	Middle Eastern	PD	case	234
+GP2 Genotyping Imputed	Middle Eastern	PD	control	204
+GP2 Genotyping Imputed	Admixed American	PD	case	433
+GP2 Genotyping Imputed	Admixed American	PD	control	153
+GP2 WGS	European	PD	case	924
+GP2 WGS	European	PD	control	229
+GP2 WGS	East Asian	PD	case	387
+GP2 WGS	East Asian	PD	control	8
+GP2 WGS	African	PD	case	111
+GP2 WGS	African	PD	control	58
+All of US	European	AD	case	333
+All of US	European	Dementia	case	975
+All of US	European	AD and Dementia	control	8880
+All of US	African	AD	case	32
+All of US	African	Dementia	case	175
+All of US	African	AD and Dementia	control	1305
+All of US	Admixed American	AD	case	71
+All of US	Admixed American	Dementia	case	214
+All of US	Admixed American	AD and Dementia	control	1304
+All of US	African Admixed	AD	case	41
+All of US	African Admixed	Dementia	case	144
+All of US	African Admixed	AD and Dementia	control	898
+All of US	Ashkenazi Jewish	AD	case	50
+All of US	Ashkenazi Jewish	Dementia	case	103
+All of US	Ashkenazi Jewish	AD and Dementia	control	873
+All of US	Central Asian	AD	case	2
+All of US	Central Asian	Dementia	case	7
+All of US	Central Asian	AD and Dementia	control	42
+All of US	East Asian	AD	case	7
+All of US	East Asian	Dementia	case	19
+All of US	East Asian	AD and Dementia	control	336
+All of US	South Asian	AD	case	2
+All of US	South Asian	Dementia	case	10
+All of US	South Asian	AD and Dementia	control	73
+All of US	Middle Eastern	AD	case	1
+All of US	Middle Eastern	Dementia	case	6
+All of US	Middle Eastern	AD and Dementia	control	66
+All of US	Finnish	AD	case	
+All of US	Finnish	Dementia	case	2
+All of US	Finnish	AD and Dementia	control	28
+ADSP	European	AD	case	5812
+ADSP	European	AD	control	4411
+ADSP	African	AD	case	664
+ADSP	African	AD	control	1685
+ADSP	Admixed American	AD	case	1086
+ADSP	Admixed American	AD	control	3967
+ADSP	African Admixed	AD	case	1119
+ADSP	African Admixed	AD	control	1563
+ADSP	Ashkenazi Jewish	AD	case	537
+ADSP	Ashkenazi Jewish	AD	control	459
+ADSP	Central Asian	AD	case	20
+ADSP	Central Asian	AD	control	131
+ADSP	East Asian	AD	case	50
+ADSP	East Asian	AD	control	29
+ADSP	South Asian	AD	case	176
+ADSP	South Asian	AD	control	2279
+ADSP	Middle Eastern	AD	case	27
+ADSP	Middle Eastern	AD	control	9
+ADSP	Finnish	AD	case	11
+ADSP	Finnish	AD	control	12
+ADSP	Complex Admixture	AD	case	1064
+ADSP	Complex Admixture	AD	control	1672
+AMP PDRD	European	DLB	case	2406
+AMP PDRD	European	DLB	control	2919
+AMP PDRD	Ashkenazi Jewish	DLB	case	113
+AMP PDRD	Ashkenazi Jewish	DLB	control	246
+AMP PDRD	Middle Eastern	DLB	case	6
+AMP PDRD	Middle Eastern	DLB	control	4
+AMP PDRD	Finnish	DLB	case	5
+AMP PDRD	Finnish	DLB	control	5
